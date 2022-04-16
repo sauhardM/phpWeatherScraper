@@ -5,9 +5,9 @@ LIVE DEMO:- https://sauhardmishraprojects.infinityfreeapp.com/phpWeatherScraper/
 <hr>
 
 * Features: 
-  * Tells current wheather of the city across the globe.
+  * Tells current weather of the city across the globe.
   * Gives a danger alert message if the name of the city is incorrect.
-  * Gives a danger alert message if website is not working properly.
+  * Gives a danger alert message if the website is not working properly.
   * Responsive design, UI is device friendly.
  
   <hr>
